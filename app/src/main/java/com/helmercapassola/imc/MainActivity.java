@@ -12,7 +12,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
 
-    Button btn_calcular;
+    Button btn_calcular, btn_t;
     TextView  txt_resultado, txt_descricao;
     EditText edit_peso, edit_altura;
 
